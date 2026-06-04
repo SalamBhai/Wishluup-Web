@@ -120,8 +120,8 @@ function HeroSection() {
           <div className="flex-1 flex flex-col items-center lg:items-start text-center lg:text-left">
             <h1 className="font-bricolage font-bold text-4xl sm:text-5xl lg:text-[64px] leading-[1] mb-5 max-w-xl">
               <span className="text-wl-dark">Africa's No 1 </span>
-              <span className="text-wl-purple">all-in-one{"\n"}</span>
-              <span className="text-wl-dark"> gifting app</span>
+              <span className="text-wl-purple">All-In-One{"\n"}</span>
+              <span className="text-wl-dark"> Gifting App</span>
             </h1>
             <p className="font-geist text-wl-gray text-lg leading-7 capitalize max-w-lg mb-8">
               Celebrate your loved ones with thoughtful gifts and personalized wishes, delivered right on time.
@@ -166,13 +166,13 @@ function HeroSection() {
             <div className="relative z-10" style={{ filter: "drop-shadow(32px 32px 68px rgba(0,0,0,0.20))" }}>
               <div className="relative w-[280px] sm:w-[320px] lg:w-[360px]">
                 <img
-                  src="https://api.builder.io/api/v1/image/assets/TEMP/73ada244598538767401a90ac6346c13f4de3fe0?width=766"
+                  src="/phonecase.png"
                   alt="iPhone mockup"
                   className="w-full h-auto"
                 />
                 <div className="absolute inset-[4%] rounded-[14%] overflow-hidden">
                   <img
-                    src="https://api.builder.io/api/v1/image/assets/TEMP/6a079b6b882ccedd27eb6e835e62d902b6fa987b?width=690"
+                    src="/app.png"
                     alt="App screen"
                     className="w-full h-full object-cover"
                   />
